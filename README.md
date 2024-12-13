@@ -45,7 +45,7 @@ To deploy the application, you need to:
 
 #### 5. Video Demonstration
 You can view a video demonstration of the application here:
-- [Video Link](https://drive.google.com/file/d/1Sp44M_n9_XnpXIdufGOnULEW4jYBAwSn/view?usp=sharing)
+- [Video Link](https://drive.google.com/file/d/134nVAoo0m4kuqHsmWDgNfWdRkQvc0Y8X/view?usp=sharing)
 
 #### 6. API Endpoints
 Your FastAPI app should include the following routes in `app/routes.py`:
