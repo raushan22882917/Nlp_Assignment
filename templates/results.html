@@ -1,0 +1,10 @@
+<div>
+    <h3>Summary</h3>
+    <p>{{ summary }}</p>
+    <h3>Key Points</h3>
+    <ul>
+    {% for key, value in key_points.items() %}
+        <li>{{ key }}: {{ value }}</li>
+    {% endfor %}
+    </ul>
+</div>
