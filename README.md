@@ -1,27 +1,4 @@
-# Repository Structure
-The repository should have the following structure:
-
-document-analysis-system/
-├── main.py                    # Main entry point for Streamlit application
-├── config.py                  # Configuration file
-├── utils.py                   # Utility functions
-├── app/                        # FastAPI backend
-│   ├── __init__.py
-│   ├── routes.py               # API endpoints
-│   └── utils.py                # Helper functions for API
-├── components/                # Streamlit UI components
-│   ├── UploadFileComponent.py  # File upload component
-│   ├── QueryComponent.py       # Query input component
-│   ├── ResultsComponent.py     # Results display component
-│   └── styles.py               # Streamlit custom styles
-├── templates/                 # Streamlit HTML templates
-│   ├── upload.html             # File upload form
-│   ├── query.html              # Query input form
-│   └── results.html            # Results display template
-├── README.md                  # Project documentation
-├── requirements.txt           # Project dependencies
-└── .gitignore                 # Git ignore file
-
+# Assignment 
 ### Instructions for Setup and Running
 
 #### 1. Setting Up the Environment
